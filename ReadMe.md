@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="source.gif" width="200" alt="Cybersecurity Lock"/>
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="250" alt="Cyber Security Hack GIF"/>
   
   <br/>
 
